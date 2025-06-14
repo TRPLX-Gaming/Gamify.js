@@ -1,3 +1,3 @@
-export function shout() {
+function shout() {
     console.log('fly away')
 }
